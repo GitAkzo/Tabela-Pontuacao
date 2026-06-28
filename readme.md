@@ -1,6 +1,6 @@
 # 🏆 Tabela de Pontuação
 
-![Preview do Projeto](./Tabela-Pontuacao.png)
+![Preview do Projeto](./Tabela-Pontuacao.webp)
 
 Um gerenciador de pontuações dinâmico projetado para partidas, campeonatos e jogos casuais. Ele permite o controle de pontuações com cálculos automáticos, suporte a múltiplos jogadores e sistemas avançados de desempate.
 
